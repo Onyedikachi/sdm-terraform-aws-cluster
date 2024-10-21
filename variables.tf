@@ -7,7 +7,7 @@ variable "environment" {
 }
 
 variable "instance_type" {
-  default = "t2.nano"
+  default = "t3.micro"
   type    = string
 }
 
